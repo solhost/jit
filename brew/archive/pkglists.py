@@ -4,7 +4,7 @@ master_lst = {
       "name": "test.py",
       "desc": "The first JBrew Package",
       "author": "solhost",
-      "id": "<%;<.]3"
+      "id": "$%?.<%;<.?1"
   }
 }
 # pkglist version "Breaking Bags"
